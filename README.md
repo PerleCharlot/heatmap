@@ -1,6 +1,6 @@
 # Heatmap
 
-Reconstruction empirique d'une carte de dérangement (proximité de lieux fréquentés) à partir de données de fréquentation du territoire.
+Heatmap des zones de quiétude construite à partir de données de fréquentation du territoire.
 
 Exploitation de la [heatmap](https://www.strava.com/heatmap) de strava comme source de données de fréquentation.
 
