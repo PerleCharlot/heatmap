@@ -1,0 +1,4 @@
+<!DOCTYPE connections>
+<qgsWMSConnections version="1.0">
+    <wms smoothPixmapTransform="false" username="" ignoreAxisOrientation="false" url="https://raw.githubusercontent.com/PnMercantour/heatmap/master/WMTS/strava-public.xml" referer="" dpiMode="7" name="Strava public" ignoreGetFeatureInfoURI="false" ignoreGetMapURI="false" invertAxisOrientation="false" password=""/>
+</qgsWMSConnections>

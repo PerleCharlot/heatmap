@@ -1,0 +1,4 @@
+<!DOCTYPE connections>
+<qgsXYZTilesConnections version="1.0">
+    <xyztiles username="" url="https://heatmap-external-b.strava.com/tiles/all/hot/{z}/{x}/{y}.png" referer="https://www.strava.com/" name="strava all hot 0-11" tilePixelRatio="1" authcfg="" zmin="0" zmax="11" password=""/>
+</qgsXYZTilesConnections>
