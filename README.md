@@ -37,9 +37,9 @@ L'exemple de https://opengisch.github.io/wmts/capabilities/strava.xml montre com
 
 Charger dans QGIS la connexion associée à ce flux WMTS.
 
-[Lien de téléchargement](<https://raw.githubusercontent.com/PnMercantour/heatmap/master/QGIS/strava wmts.xml>)
+[Lien de téléchargement](<https://raw.githubusercontent.com/PnMercantour/heatmap/master/QGIS/strava WMTS.xml>)
 
-Voir le [fichier sur github](<QGIS/strava wmts.xml>).
+Voir le [fichier sur github](<QGIS/strava WMTS.xml>).
 
 #### Références
 
