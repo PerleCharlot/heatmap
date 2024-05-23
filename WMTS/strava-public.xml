@@ -34,7 +34,7 @@
                          template="https://heatmap-external-c.strava.com/tiles/all/hot/{TileMatrix}/{TileCol}/{TileRow}.png?px=256"
                          resourceType="tile"/>
         </Layer>
-              <Layer>
+        <Layer>
             <ows:Title>Strava - hike</ows:Title>
             <ows:Abstract></ows:Abstract>
             <ows:Identifier>strava-hike</ows:Identifier>
